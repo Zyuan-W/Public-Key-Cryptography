@@ -1,4 +1,4 @@
-# Assignment 6 Public Key Cryptography
+# Public Key Cryptography
 
 This program implements the RSA encryption algorithm,
 uses modular exponentiation and Euler functions to
